@@ -12,13 +12,6 @@ This lab demonstrates basic connectivity between two separate networks using a r
 * Enable router interfaces
 * Verify connectivity between PC1 and PC2
 
----
-
-## 🧱 Topology
-
-PC1 --- R1 --- PC2
-
----
 
 ## 🖼️ Topology Diagram
 
