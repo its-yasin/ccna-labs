@@ -14,6 +14,7 @@ This lab demonstrates how to divide a single `/24` network into multiple smaller
 * Verify connectivity between all PCs
 * Identify and fix a basic IP configuration issue
 
+---
 
 ## 🖼️ Topology Diagram
 
