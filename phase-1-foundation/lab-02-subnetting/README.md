@@ -57,7 +57,6 @@ interface g0/2
 ### PC Configuration
 
 * PC1 IP Address: 192.168.10.10
-* PC1 IP Address: 192.168.10.10
 * PC1 Subnet Mask: 255.255.255.192
 * PC1 Default Gateway: 192.168.10.1
 * PC2 IP Address: 192.168.10.70
