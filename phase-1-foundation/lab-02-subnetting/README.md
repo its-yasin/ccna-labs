@@ -41,15 +41,15 @@ This lab demonstrates how to divide a single `/24` network into multiple smaller
 enable
 configure terminal
 
-interface g0/0
+interface f0/0
  ip address 192.168.10.1 255.255.255.192
  no shutdown
 
-interface g0/1
+interface f0/1
  ip address 192.168.10.65 255.255.255.192
  no shutdown
 
-interface g0/2
+interface f0/2
  ip address 192.168.10.129 255.255.255.192
  no shutdown
 ```
