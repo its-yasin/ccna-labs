@@ -69,7 +69,8 @@ write memory
 ```
 ---
 
-## Router R1
+### Router R1
+
 ```bash
 enable
 configure terminal
