@@ -126,7 +126,7 @@ show lldp neighbors detail
 
 ---
 
-## Expected Results
+### Expected Results
 
 * R1 should discover SW1 as a directly connected neighbor
 * SW1 should discover R1 as a directly connected neighbor
